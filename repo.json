@@ -1,8 +1,8 @@
 [
     {
         "Author": "Obi One",
-        "Name": "Peeping Tom",
-        "InternalName": "PeepingTom",
+        "Name": "Preeping Tom",
+        "InternalName": "PreepingTom",
         "AssemblyVersion": "420.69",
         "Description": "Shows who is currently or was previously targeting you.",
         "RepoUrl": "https://github.com/obi-o-n-e/pt/",
