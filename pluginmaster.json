@@ -1,12 +1,12 @@
 [
     {
-        "Author": "obi",
-        "Name": "peeping tom",
-        "Punchline": "Cpeeping tom",
-        "Description": "peeping tom",
-        "InternalName": "Cpeeping tom",
-        "AssemblyVersion": "2.0.1.1",
-        "RepoUrl": "null",
+        "Author": "Obi One",
+        "Name": "Peepering Tom",
+        "Punchline": "Shows who is currently or was previously targeting you.",
+        "Description": "Shows who is currently or was previously targeting you.",
+        "InternalName": "Peeping tom",
+        "AssemblyVersion": "420.69",
+        "RepoUrl": "https://github.com/obi-o-n-e/pt/",
         "ApplicableVersion": "any",
         "Tags": [
             "fun"
@@ -15,11 +15,11 @@
         "LoadPriority": 0,
         "IconUrl": "null",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/latest.zip",
+        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/latest.zip",
+        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom.zip",
+        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom.zip",
         "DownloadCount": 0,
         "LastUpdate": "1731708162"
     }
