@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "obi",
+        "Name": "peeping tom",
+        "Punchline": "Cpeeping tom",
+        "Description": "peeping tom",
+        "InternalName": "Cpeeping tom",
+        "AssemblyVersion": "2.0.1.1",
+        "RepoUrl": "null",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "fun"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1731708162"
+    }
+]
