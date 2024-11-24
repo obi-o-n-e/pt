@@ -15,8 +15,8 @@
         "LoadPriority": 0,
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/latest.zip",
-        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/latest.zip"
+        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/Release.zip",
+        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/Release.zip",
+        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/Release.zip"
     }
 ]
