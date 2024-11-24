@@ -15,11 +15,11 @@
         "LoadPriority": 0,
         "IconUrl": "null",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom.zip",
+        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom.zip",
-        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom.zip",
+        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1731708162"
     }
