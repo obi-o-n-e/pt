@@ -2,25 +2,21 @@
     {
         "Author": "Obi One",
         "Name": "Peepering Tom",
-        "Punchline": "Shows who is currently or was previously targeting you.",
-        "Description": "Shows who is currently or was previously targeting you.",
         "InternalName": "Peeping tom",
         "AssemblyVersion": "420.69",
+        "Description": "Shows who is currently or was previously targeting you.",
         "RepoUrl": "https://github.com/obi-o-n-e/pt/",
         "ApplicableVersion": "any",
         "Tags": [
-            "fun"
+            "jobs",
+            "utility"
         ],
         "DalamudApiLevel": 11,
         "LoadPriority": 0,
-        "IconUrl": "null",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip",
         "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1731708162"
+        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/raw/refs/heads/main/PeepingTom/latest.zip"
     }
 ]
