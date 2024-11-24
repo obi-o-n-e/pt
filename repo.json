@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Obi One",
+        "Name": "Peepering Tom",
+        "InternalName": "Peeping tom",
+        "AssemblyVersion": "420.69",
+        "Description": "Shows who is currently or was previously targeting you.",
+        "RepoUrl": "https://github.com/obi-o-n-e/pt/",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "jobs",
+            "utility"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadPriority": 0,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/latest.zip",
+        "DownloadLinkTesting": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/obi-o-n-e/pt/releases/download/v420.69/latest.zip"
+    }
+]
